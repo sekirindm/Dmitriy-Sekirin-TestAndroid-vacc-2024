@@ -52,7 +52,7 @@ dependencies {
 
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
 
-    implementation ("io.insert-koin:koin-android:3.2.0")
+    implementation  ("io.insert-koin:koin-android:3.2.0")
 
 
 
